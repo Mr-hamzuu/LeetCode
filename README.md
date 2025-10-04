@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/Mr-hamzuu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Mr-hamzuu/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mr-hamzuu/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0860-design-circular-queue](https://github.com/Mr-hamzuu/LeetCode/tree/master/0860-design-circular-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/Mr-hamzuu/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1319-unique-number-of-occurrences](https://github.com/Mr-hamzuu/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Two Pointers
@@ -41,4 +42,16 @@
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Mr-hamzuu/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Mr-hamzuu/LeetCode/tree/master/0860-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Mr-hamzuu/LeetCode/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Mr-hamzuu/LeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
